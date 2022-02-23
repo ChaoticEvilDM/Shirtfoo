@@ -1,2 +1,4 @@
 # Shirtfoo
-Prints for T-Shirts
+Repo for clothing prints
+
+Read the individual license files
